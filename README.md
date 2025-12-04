@@ -8,7 +8,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ## Links
 
-- Solution URL:
+- Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-via-grid-llXngXwlvU
 - Live Site URL: https://agizmaylov.github.io/frontend-mentor-product-preview-card-component/
 - All solutions: https://agizmaylov.github.io/frontend-mentor-solutions/
 
